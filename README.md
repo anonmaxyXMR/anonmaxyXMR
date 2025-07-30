@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey, I'm anonmaxyXMR
 
-<!--
-**anonmaxyXMR/anonmaxyXMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💸 Privacy is a right — and I stand with it through **Monero (XMR)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ About Me
+
+- 🖤 Passionate about decentralized technologies and privacy coins
+- 💻 I write code that respects freedom and anonymity
+- 🧠 Always learning about cryptography, blockchain, and privacy-first development
+
+---
+
+> “If privacy is outlawed, only outlaws will have privacy.” – Phil Zimmermann  
+> 🕵️‍♂️ Stay private. Stay free. Mine XMR.
+
