@@ -1,4 +1,12 @@
-name: IP Checker
+name: Check Runner Public IP
 
-      - name: Start Checking...
-        run: curl ipinfo.io
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  check-ip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl ipinfo.io
+        run: curl -s ipinfo.io
