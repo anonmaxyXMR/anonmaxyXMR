@@ -1,0 +1,4 @@
+name: IP Checker
+
+      - name: Start Checking...
+        run: curl ipinfo.io
