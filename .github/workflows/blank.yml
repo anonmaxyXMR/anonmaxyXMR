@@ -1,4 +1,4 @@
-name: Check Runner Public IP
+name: Check Runner Public IPx
 
 on:
   workflow_dispatch:
